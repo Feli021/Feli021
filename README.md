@@ -6,7 +6,12 @@
 
 
 ## 📊 Estatísticas  
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeferreiradrummond&show_icons=true&theme=dark)
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=feli021&show_icons=true&theme=dark)
+
+## Contato
+Email: felidrummond84@gmail.com
+linkedin: www.linkedin.com/in/felipe-drummond-8223a92bb
+
 
 
 <!--
