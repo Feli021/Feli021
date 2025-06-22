@@ -1,9 +1,7 @@
 ## E aí! Sou o Feli, muito prazer!! 👋
 
-## 📌 Projetos  
-
-## 🚀 Tecnologias  
-
+## 📌 Projetos 
+https://github.com/Feli021/Algoritmos-
 
 ## 📊 Estatísticas  
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=feli021&layout=compact&theme=dark)
