@@ -1,11 +1,5 @@
 ## E aí! Sou o Feli, muito prazer!! 👋
-
-## 📌 Projetos 
-https://github.com/Feli021/Algoritmos-
-
-## 📊 Estatísticas  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=feli021&layout=compact&theme=dark)
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=feli021&show_icons=true&theme=dark)
+**Aqui você encontrará meus repositórios com projetos pessoais que faço para estudar e ampliar meu aprendizado**
 
 ## Contato
 **email:** felidrummond84@gmail.com
